@@ -26,3 +26,4 @@
 # IE 11 browser - no errors.
 # Firefox browser - 10 errors with doctype xml - .
 myFeature1
+myFeature2
